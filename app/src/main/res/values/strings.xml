@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Askisi2</string>
+    <string name="gps_off">GPS OFF</string>
+    <string name="speed">Speed</string>
+    <string name="get_distance">Get Distance</string>
+    <string name="showdistance">ShowDistance</string>
+
+    <string-array name="towns">
+
+        <item>Marousi</item>
+        <item>Glyfada</item>
+        <item>Spata</item>
+    </string-array>
+</resources>
